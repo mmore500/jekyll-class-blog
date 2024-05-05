@@ -6,6 +6,10 @@ This template was created to accompany the session
 
 presented by [Matthew Andres Moreno](https://mmore500.com) and [Acacia Ackles](https://alackles.github.io/) at [Enriching Scholarship 2024](https://ttc.iss.lsa.umich.edu/ttc/).
 
+## Live Demo
+
+<https://mmore500.com/jekyll-class-blog>
+
 ## How to Use
 
 1. Click `Use this template > Create a new repository` on GitHub or click [here](https://github.com/new?template_name=jekyll-class-blog&template_owner=mmore500).
