@@ -10,7 +10,7 @@ In most cases, you should never need to edit it. -->
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2> by {{ post.author }}
+      <h3><a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author }}</h3>
     </li>
   {% endfor %}
 </ul>
