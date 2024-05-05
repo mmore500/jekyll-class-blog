@@ -21,7 +21,7 @@ presented by [Matthew Andres Moreno](https://mmore500.com) and [Acacia Ackles](h
    title: Title goes here
    ---
    
-   Blog content goes here.
+   Blog post content goes here.
    ```
 3. Click `Commit changes` in the upper right.
    Then you have two choices:
