@@ -51,4 +51,6 @@ presented by [Matthew Andres Moreno](https://mmore500.com) and [Acacia Ackles](h
    You can monitor this process from the `Actions` pane of the repository page (`https://github.com/yourusername/repository-name/actions`)
 13. Once the deployment completes (green checkmark), your page should be available at `https://yourusername.github.io/repository-name`.
 
+## More Information
+
 For more information, see our slide deck at <https://hopth.ru/cs>.
