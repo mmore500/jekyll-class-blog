@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Matthew
-post_title: Welcome!
+post_title: FooWelcome!
 ---
 
 This blog was created as a demo for Enriching Scholarship 2024 @ University of Michigan.
