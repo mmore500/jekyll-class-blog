@@ -9,7 +9,7 @@ In most cases, you should never need to edit it. -->
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li>{{post.author}} » <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>{{post.author}} » <a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
