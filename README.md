@@ -41,15 +41,14 @@ presented by [Matthew Andres Moreno](https://mmore500.com) and [Acacia Ackles](h
 4. Navigate to the new repository's page, `https://github.com/yourusername/repository-name`
 5. Click the `_config.yaml` file to open it.
    Then, click the pencil icon in the upper right ("Edit this file") to edit.
-6. Change `url` field to `https://yourusername.github.io` (substituting your username).
-7. Change `baseurl` field to `repository-name` (substituting your repository name).
-8. Click the `Commit Changes` button in the top right, then `Commit Changes` on the confirmation panel that appears.
-9. Navigate to the `Settings > Pages` pane of your repository page (`https://github.com/yourusername/repository-name/settings/pages`).
-10. Set your deployment branch as `main` and your deployment directory as `/ (root)`.
-11. Click the `enforce https` checkbox.
-12. Wait about one minute for site build and deploy to complete.
+6. Change `url` field to `https://yourusername.github.io/repository-name` (substituting your username and repository name).
+7. Click the `Commit Changes` button in the top right, then `Commit Changes` on the confirmation panel that appears.
+8. Navigate to the `Settings > Pages` pane of your repository page (`https://github.com/yourusername/repository-name/settings/pages`).
+9. Set your deployment branch as `main` and your deployment directory as `/ (root)`.
+10. Click the `enforce https` checkbox.
+11. Wait about one minute for site build and deploy to complete.
    You can monitor this process from the `Actions` pane of the repository page (`https://github.com/yourusername/repository-name/actions`)
-13. Once the deployment completes (green checkmark), your page should be available at `https://yourusername.github.io/repository-name`.
+12. Once the deployment completes (green checkmark), your page should be available at `https://yourusername.github.io/repository-name`.
 
 ## More Information
 
