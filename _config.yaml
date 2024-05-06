@@ -2,3 +2,4 @@ title: Blogging 101 (Summer 2024)
 theme: jekyll-theme-cayman
 permalink: :year/:month/:day/:slug:output_ext
 url: https://mmore500.com/jekyll-class-blog  # edit me! -> https://username.github.io/repository-name
+markdown: kramdown
