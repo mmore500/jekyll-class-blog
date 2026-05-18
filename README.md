@@ -6,6 +6,8 @@ This template was created to accompany the session
 
 presented by [Matthew Andres Moreno](https://mmore500.com) and [Acacia Ackles](https://alackles.github.io/) at [Enriching Scholarship 2024](https://ttc.iss.lsa.umich.edu/ttc/).
 
+This template was also presented by [Matthew Andres Moreno](https://mmore500.com) at the [AEDU Virtual Workshop 2026](https://alife-edu.github.io/schedule-west.html).
+
 ## Live Demo
 
 <https://mmore500.com/jekyll-class-blog>
