@@ -54,4 +54,4 @@ This template was also presented by [Matthew Andres Moreno](https://mmore500.com
 
 ## More Information
 
-For more information, see our slide deck at <https://hopth.ru/cs>.
+For more information, see our slide decks at <https://hopth.ru/cs> (2024) and <https://hopth.ru/gp> (2026).
